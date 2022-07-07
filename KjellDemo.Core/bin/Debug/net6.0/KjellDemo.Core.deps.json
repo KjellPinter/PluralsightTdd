@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KjellDemo.Core/1.0.0": {
+        "runtime": {
+          "KjellDemo.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KjellDemo.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

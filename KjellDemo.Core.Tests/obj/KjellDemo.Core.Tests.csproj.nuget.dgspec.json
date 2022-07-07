@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kjell\\source\\repos\\KjellDemo\\KjellDemo.Core.Tests\\KjellDemo.Core.Tests.csproj": {}
+    "C:\\Users\\kjell\\source\\repos\\PluralsightTdd\\KjellDemo.Core.Tests\\KjellDemo.Core.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kjell\\source\\repos\\KjellDemo\\KjellDemo.Core.Tests\\KjellDemo.Core.Tests.csproj": {
+    "C:\\Users\\kjell\\source\\repos\\PluralsightTdd\\KjellDemo.Core.Tests\\KjellDemo.Core.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kjell\\source\\repos\\KjellDemo\\KjellDemo.Core.Tests\\KjellDemo.Core.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\kjell\\source\\repos\\PluralsightTdd\\KjellDemo.Core.Tests\\KjellDemo.Core.Tests.csproj",
         "projectName": "KjellDemo.Core.Tests",
-        "projectPath": "C:\\Users\\kjell\\source\\repos\\KjellDemo\\KjellDemo.Core.Tests\\KjellDemo.Core.Tests.csproj",
+        "projectPath": "C:\\Users\\kjell\\source\\repos\\PluralsightTdd\\KjellDemo.Core.Tests\\KjellDemo.Core.Tests.csproj",
         "packagesPath": "C:\\Users\\kjell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kjell\\source\\repos\\KjellDemo\\KjellDemo.Core.Tests\\obj\\",
+        "outputPath": "C:\\Users\\kjell\\source\\repos\\PluralsightTdd\\KjellDemo.Core.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kjell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\kjell\\source\\repos\\KjellDemo\\KjellDemo.Core\\KjellDemo.Core.csproj": {
-                "projectPath": "C:\\Users\\kjell\\source\\repos\\KjellDemo\\KjellDemo.Core\\KjellDemo.Core.csproj"
+              "C:\\Users\\kjell\\source\\repos\\PluralsightTdd\\KjellDemo.Core\\KjellDemo.Core.csproj": {
+                "projectPath": "C:\\Users\\kjell\\source\\repos\\PluralsightTdd\\KjellDemo.Core\\KjellDemo.Core.csproj"
               }
             }
           }
@@ -47,6 +47,10 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.2.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.1, )"
             },
             "coverlet.collector": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -84,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\kjell\\source\\repos\\KjellDemo\\KjellDemo.Core\\KjellDemo.Core.csproj": {
+    "C:\\Users\\kjell\\source\\repos\\PluralsightTdd\\KjellDemo.Core\\KjellDemo.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kjell\\source\\repos\\KjellDemo\\KjellDemo.Core\\KjellDemo.Core.csproj",
+        "projectUniqueName": "C:\\Users\\kjell\\source\\repos\\PluralsightTdd\\KjellDemo.Core\\KjellDemo.Core.csproj",
         "projectName": "KjellDemo.Core",
-        "projectPath": "C:\\Users\\kjell\\source\\repos\\KjellDemo\\KjellDemo.Core\\KjellDemo.Core.csproj",
+        "projectPath": "C:\\Users\\kjell\\source\\repos\\PluralsightTdd\\KjellDemo.Core\\KjellDemo.Core.csproj",
         "packagesPath": "C:\\Users\\kjell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kjell\\source\\repos\\KjellDemo\\KjellDemo.Core\\obj\\",
+        "outputPath": "C:\\Users\\kjell\\source\\repos\\PluralsightTdd\\KjellDemo.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kjell\\AppData\\Roaming\\NuGet\\NuGet.Config",

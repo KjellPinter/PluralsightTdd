@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g1bxS3HLjIr6qS9Kqfr7leHqOmPvf4VbYFjXghicx36/3nHtGc78mFLjBjXYtal9MJMdhKY61oHhrdWt83L2HA==",
+  "dgSpecHash": "RnVJA4B6fX0630yhHscQzeRcuMiJRrX419sCwvM48bEObUkGR92XvFUcUl+FJbmhxu7tzxwj3WIs6ygfMjf+EA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kjell\\source\\repos\\KjellDemo\\KjellDemo.Core\\KjellDemo.Core.csproj",
+  "projectFilePath": "C:\\Users\\kjell\\source\\repos\\PluralsightTdd\\KjellDemo.Core\\KjellDemo.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
