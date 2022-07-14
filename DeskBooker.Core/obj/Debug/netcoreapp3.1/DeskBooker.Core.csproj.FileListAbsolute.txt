@@ -1,0 +1,10 @@
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.Core\bin\Debug\netcoreapp3.1\DeskBooker.Core.deps.json
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.Core\bin\Debug\netcoreapp3.1\DeskBooker.Core.dll
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.Core\bin\Debug\netcoreapp3.1\DeskBooker.Core.pdb
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.csproj.AssemblyReference.cache
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.AssemblyInfoInputs.cache
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.AssemblyInfo.cs
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.csproj.CoreCompileInputs.cache
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.dll
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.pdb

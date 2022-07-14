@@ -1,0 +1,13 @@
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.DataAccess\bin\Debug\netcoreapp3.1\DeskBooker.DataAccess.deps.json
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.DataAccess\bin\Debug\netcoreapp3.1\DeskBooker.DataAccess.dll
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.DataAccess\bin\Debug\netcoreapp3.1\DeskBooker.DataAccess.pdb
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.DataAccess\bin\Debug\netcoreapp3.1\DeskBooker.Core.dll
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.DataAccess\bin\Debug\netcoreapp3.1\DeskBooker.Core.pdb
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.DataAccess\obj\Debug\netcoreapp3.1\DeskBooker.DataAccess.csproj.AssemblyReference.cache
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.DataAccess\obj\Debug\netcoreapp3.1\DeskBooker.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.DataAccess\obj\Debug\netcoreapp3.1\DeskBooker.DataAccess.AssemblyInfoInputs.cache
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.DataAccess\obj\Debug\netcoreapp3.1\DeskBooker.DataAccess.AssemblyInfo.cs
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.DataAccess\obj\Debug\netcoreapp3.1\DeskBooker.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.DataAccess\obj\Debug\netcoreapp3.1\DeskBooker.DataAccess.csproj.CopyComplete
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.DataAccess\obj\Debug\netcoreapp3.1\DeskBooker.DataAccess.dll
+C:\Users\kjell\source\repos\PluralsightTdd\DeskBooker.DataAccess\obj\Debug\netcoreapp3.1\DeskBooker.DataAccess.pdb
