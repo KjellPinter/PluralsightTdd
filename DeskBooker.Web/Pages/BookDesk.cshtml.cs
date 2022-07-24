@@ -20,18 +20,24 @@ namespace DeskBooker.Web.Pages
 
         public IActionResult OnPost()
         {
+            IActionResult actionResult = Page();
+
             if (ModelState.IsValid)
             {
                 var result = _deskBookingRequestProcessor.BookDesk(DeskBookingRequest);
 
-                if (result.Code == DeskBookingResultCode.NoDeskAvailable)
+                if (result.Code == DeskBookingResultCode.Success)
+                {
+                    actionResult = RedirectToPage("BookDeskConfirmation", new { result.DeskBookingId, result.FirstName, result.Date});
+                }
+                else if (result.Code == DeskBookingResultCode.NoDeskAvailable)
                 {
 
                     ModelState.AddModelError("DeskBookingRequest.Date", "No desk available for selected date");
                 }
             }
 
-            return null;
+            return actionResult;
             
         }
     }

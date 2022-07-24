@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WdK2kY/OdL1ZKRPvlP/Kq98uniiGOMXQaKsj1tuAMXGGS5ZbP2PCChnakiv0sYkPQHN1vO0E9rSGXqOpX9frWg==",
+  "dgSpecHash": "RwvgXpnNmA+QaK2Xh5rGhJI+joZ2Ypv+HbhUw+1Hfdfn3eO/lDFLvcpTj9/ltLg+g6yaMDdtxCCVuKIELnAhCQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\kjell\\source\\repos\\PluralsightTdd\\DeskBooker.DataAccess.Tests\\DeskBooker.DataAccess.Tests.csproj",
   "expectedPackageFiles": [
@@ -122,10 +122,7 @@
     "C:\\Users\\kjell\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
     "C:\\Users\\kjell\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
     "C:\\Users\\kjell\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
-    "C:\\Users\\kjell\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.1\\xunit.runner.visualstudio.2.4.1.nupkg.sha512",
-    "C:\\Users\\kjell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\kjell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\kjell\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\kjell\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.1\\xunit.runner.visualstudio.2.4.1.nupkg.sha512"
   ],
   "logs": []
 }

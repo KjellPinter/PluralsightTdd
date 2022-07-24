@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/KVLLRnQlBtTu2YxtB01vHXIZqCH709tZSwJKQnEn1odjawYqlKRY8AAhk38Apd5vVGdfc49SC2DbX0DlUwLTw==",
+  "dgSpecHash": "G8HCJZwM1wS8IvL+XuXCGZdIbMxorUtSEsUZP1/shHm3Az2VOvmn6dIb+rpooL5kCIoM9GLjjYfno0EWgPXVJg==",
   "success": true,
   "projectFilePath": "C:\\Users\\kjell\\source\\repos\\PluralsightTdd\\DeskBooker.DataAccess\\DeskBooker.DataAccess.csproj",
   "expectedPackageFiles": [
@@ -22,10 +22,7 @@
     "C:\\Users\\kjell\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
     "C:\\Users\\kjell\\.nuget\\packages\\system.collections.immutable\\1.7.0\\system.collections.immutable.1.7.0.nupkg.sha512",
     "C:\\Users\\kjell\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
-    "C:\\Users\\kjell\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.0\\system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
-    "C:\\Users\\kjell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\kjell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\kjell\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\kjell\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.0\\system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
